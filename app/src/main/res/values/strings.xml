@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="error_msg">Something went wrong! Please try again!!</string>
+    <string name="wait">Please Wait!</string>
+    <string name="loading_list">Loading List</string>
+    <string name="refresh">Refresh</string>
+    <string name="mandatory_fields">All Fields are mandatory</string>
+    <string name="update_car_details">Update Car Details</string>
+    <string name="update">Update</string>
+    <string name="add_new_car">Add New Car</string>
+    <string name="add_car">Add Car</string>
+    <string name="remove_car">Remove the car</string>
+    <string name="remove_car_msg">Are you sure, You want to remove the Car?</string>
+    <string name="no_internet">No Internet Connected!</string>
+    <string name="no_internet_msg">Please connect to internet and refresh the page!!</string>
+    <string name="title">Title</string>
+    <string name="model">Model</string>
+    <string name="price">Price</string>
+</resources>
